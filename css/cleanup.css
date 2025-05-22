@@ -1,1 +1,35 @@
 /* write your override styles here */
+#wall .tag-1 {
+  display: none;
+}
+
+#details div {
+    width: 23%;
+    float: left;
+    text-align: center;
+    background-color:rgb(179, 179, 175);
+}
+
+#featured-property p {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+
+}
+
+nav a{
+    padding: 0 11px;
+    text-align: center;
+    background-color: darkgray;
+}
+
+figcaption{
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
